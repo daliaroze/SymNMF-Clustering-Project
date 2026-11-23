@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.o
+*.so
+*.pyd
+*.dll
+*.dylib
+*.egg-info/
+build/
+dist/
+.symnmf*
+/symnmf
+.venv/
+.vscode/
+.idea/
